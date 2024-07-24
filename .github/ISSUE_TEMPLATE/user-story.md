@@ -1,6 +1,6 @@
 ---
-name: Issue template
-about: My project issue template
+name: User story
+about: User story template
 title: ''
 labels: ''
 assignees: ''
